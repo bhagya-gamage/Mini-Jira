@@ -1,4 +1,2 @@
 package com.minijira.model;
-
-public enum TaskStatus {
-}
+public enum TaskStatus { TODO, IN_PROGRESS, DONE }

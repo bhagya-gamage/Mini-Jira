@@ -1,4 +1,2 @@
 package com.minijira.model;
-
-public enum Role {
-}
+public enum Role { ADMIN, PROJECT_MANAGER, DEVELOPER }
